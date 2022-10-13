@@ -2,7 +2,7 @@
   "name": "crypto-prices",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mgrippo11.github.io/Crypto-Price",
+  "homepage": "http://mgrippo11.github.io/Crypto-Price",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
