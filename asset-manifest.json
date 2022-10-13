@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.88852103.chunk.css",
-    "main.js": "/static/js/main.7a5d9b1f.chunk.js",
-    "main.js.map": "/static/js/main.7a5d9b1f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.00f09b02.js",
-    "runtime-main.js.map": "/static/js/runtime-main.00f09b02.js.map",
-    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
-    "static/js/2.eb0173e9.chunk.js": "/static/js/2.eb0173e9.chunk.js",
-    "static/js/2.eb0173e9.chunk.js.map": "/static/js/2.eb0173e9.chunk.js.map",
-    "static/js/3.c0250f94.chunk.js": "/static/js/3.c0250f94.chunk.js",
-    "static/js/3.c0250f94.chunk.js.map": "/static/js/3.c0250f94.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.88852103.chunk.css.map": "/static/css/main.88852103.chunk.css.map",
-    "static/js/2.eb0173e9.chunk.js.LICENSE.txt": "/static/js/2.eb0173e9.chunk.js.LICENSE.txt"
+    "main.css": "/Crypto-Price/static/css/main.9445e685.chunk.css",
+    "main.js": "/Crypto-Price/static/js/main.7b5fea60.chunk.js",
+    "main.js.map": "/Crypto-Price/static/js/main.7b5fea60.chunk.js.map",
+    "runtime-main.js": "/Crypto-Price/static/js/runtime-main.73a0d7b6.js",
+    "runtime-main.js.map": "/Crypto-Price/static/js/runtime-main.73a0d7b6.js.map",
+    "static/css/2.383c0125.chunk.css": "/Crypto-Price/static/css/2.383c0125.chunk.css",
+    "static/js/2.eb0173e9.chunk.js": "/Crypto-Price/static/js/2.eb0173e9.chunk.js",
+    "static/js/2.eb0173e9.chunk.js.map": "/Crypto-Price/static/js/2.eb0173e9.chunk.js.map",
+    "static/js/3.c0250f94.chunk.js": "/Crypto-Price/static/js/3.c0250f94.chunk.js",
+    "static/js/3.c0250f94.chunk.js.map": "/Crypto-Price/static/js/3.c0250f94.chunk.js.map",
+    "index.html": "/Crypto-Price/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Crypto-Price/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.9445e685.chunk.css.map": "/Crypto-Price/static/css/main.9445e685.chunk.css.map",
+    "static/js/2.eb0173e9.chunk.js.LICENSE.txt": "/Crypto-Price/static/js/2.eb0173e9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00f09b02.js",
+    "static/js/runtime-main.73a0d7b6.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.eb0173e9.chunk.js",
-    "static/css/main.88852103.chunk.css",
-    "static/js/main.7a5d9b1f.chunk.js"
+    "static/css/main.9445e685.chunk.css",
+    "static/js/main.7b5fea60.chunk.js"
   ]
 }
