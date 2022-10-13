@@ -7,6 +7,7 @@ Funciones:
 +Posee un buscador para friltrar por nombre.
 
 ### Notes:
++Publicado en: https://mgrippo11.github.io/Crypto-Price/
 
 +reconstruir los modulos de node.
 `npm install`
