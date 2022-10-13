@@ -7,9 +7,6 @@ Funciones:
 +Posee un buscador para friltrar por nombre.
 
 ### Notes:
-+Publicado en:
-https://bardack-3d.art/
-
 
 +reconstruir los modulos de node.
 `npm install`
